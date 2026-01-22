@@ -1,5 +1,9 @@
 # LaserSell Docker Setup
 
+[![Docker Image Version](https://img.shields.io/docker/v/lasersell/lasersell?sort=semver&logo=docker&logoColor=white)](https://hub.docker.com/r/lasersell/lasersell)
+[![Docker Pulls](https://img.shields.io/docker/pulls/lasersell/lasersell?logo=docker&logoColor=white)](https://hub.docker.com/r/lasersell/lasersell)
+[![Docker Image Size](https://img.shields.io/docker/image-size/lasersell/lasersell?logo=docker&logoColor=white)](https://hub.docker.com/r/lasersell/lasersell)
+
 Follow these steps to install and configure LaserSell.
 
 **Note:** You do not need to download any config files manually. This tool will generate them for you.
